@@ -1,0 +1,31 @@
+[
+  {
+    "order_time_end": "2020-05-11T00:00:00Z",
+    "order_time": "2019-06-06T00:00:00Z",
+    "charge_user_id": "A037",
+    "amount_collected": 0.0,
+    "order_time_start": "2020-04-30T00:00:00Z",
+    "amount_tobecollected": 5800.0,
+    "if_planning_scheme": false,
+    "id": "20190724-000058",
+    "application_person_id": "A005",
+    "if_easy_communicate": "~",
+    "order_stage": "all_paid",
+    "return_amount": 0.0,
+    "order_type": "highschool_domestic",
+    "extra_module_possible": "~",
+    "housekeeper_id": "A005",
+    "if_parent_join": "~",
+    "commercial_opportunity_id": "5d379e537886350001af27ab",
+    "note": "原：张婷",
+    "communicate": "~",
+    "research_headteacher_id": "A005",
+    "planning_person_id": "A005",
+    "discount_amount": 100,
+    "keypoint_sign": "~",
+    "extra_clause": "~",
+    "order_amount": 5800.0,
+    "if_new_client": "other",
+    "gaokao_year": 2019.0
+  }
+]
